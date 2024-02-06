@@ -3,6 +3,7 @@
 This is a simple single page application built using Vue.js that serves as a to-do list manager. It allows users to manage their tasks efficiently with features such as updating tasks, marking completed tasks, viewing open tasks, and automatic saving and retrieval of task lists.
 
 **Features**
+
 Task Management: Users can easily update their to-do list by adding, editing, and removing tasks.
 Check-off List: A dedicated section displays all completed tasks, providing users with a clear overview of what has been accomplished.
 Open Task Listing: All open tasks are displayed in a list format for convenient viewing and management.
@@ -10,11 +11,13 @@ Creation Date Visibility: The creation date of each task is visible to the user,
 Automatic Saving and Retrieval: Users' task lists are automatically saved when the tab is closed and retrieved later, ensuring seamless user experience and data persistence.
 
 **Technologies Used**
+
 Vue.js: A progressive JavaScript framework used for building the user interface and managing application state.
 JSON Server: A full fake REST API that provides endpoints for saving, retrieving, and filtering task data.
 JavaScript: The application logic is implemented using JavaScript for dynamic behavior and interactions.
 
 **Getting Started**
+
 To run this application locally, follow these steps:
 Clone this repository to your local machine.
 Navigate to the project directory.
@@ -24,6 +27,7 @@ Open another terminal window/tab and start the Vue.js application by running npm
 Visit http://localhost:8080 in your web browser to access the to-do list application.
 
 **Usage**
+
 Once the application is running, you can:
 Add new tasks by typing in the input field and pressing enter.
 Edit existing tasks by clicking on the task text and making changes.
