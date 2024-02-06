@@ -13,7 +13,9 @@ Automatic Saving and Retrieval: Users' task lists are automatically saved when t
 **Technologies Used**
 
 Vue.js: A progressive JavaScript framework used for building the user interface and managing application state.
+
 JSON Server: A full fake REST API that provides endpoints for saving, retrieving, and filtering task data.
+
 JavaScript: The application logic is implemented using JavaScript for dynamic behavior and interactions.
 
 **Getting Started**
